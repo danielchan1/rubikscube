@@ -1,0 +1,308 @@
+New Rubik's Cube generated! Type 'display' to see it.
+Enter a command (or 'quit' to exit): display
+[(-1, -1, -1)   Type: CORNER    Colors: {L: ORANGE, D: YELLOW, F: GREEN}
+, (-1, -1, 0)   Type: EDGE      Colors: {L: ORANGE, D: YELLOW}
+, (-1, -1, 1)   Type: CORNER    Colors: {L: ORANGE, D: YELLOW, B: BLUE}
+, (-1, 0, -1)   Type: EDGE      Colors: {L: ORANGE, F: GREEN}
+, (-1, 0, 0)    Type: MIDDLE    Colors: {L: ORANGE}
+, (-1, 0, 1)    Type: EDGE      Colors: {L: ORANGE, B: BLUE}
+, (-1, 1, -1)   Type: CORNER    Colors: {L: ORANGE, U: WHITE, F: GREEN}
+, (-1, 1, 0)    Type: EDGE      Colors: {L: ORANGE, U: WHITE}
+, (-1, 1, 1)    Type: CORNER    Colors: {L: ORANGE, U: WHITE, B: BLUE}
+, (0, -1, -1)   Type: EDGE      Colors: {D: YELLOW, F: GREEN}
+, (0, -1, 0)    Type: MIDDLE    Colors: {D: YELLOW}
+, (0, -1, 1)    Type: EDGE      Colors: {D: YELLOW, B: BLUE}
+, (0, 0, -1)    Type: MIDDLE    Colors: {F: GREEN}
+, (0, 0, 0)     Type: CENTER    Colors: {}
+, (0, 0, 1)     Type: MIDDLE    Colors: {B: BLUE}
+, (0, 1, -1)    Type: EDGE      Colors: {U: WHITE, F: GREEN}
+, (0, 1, 0)     Type: MIDDLE    Colors: {U: WHITE}
+, (0, 1, 1)     Type: EDGE      Colors: {U: WHITE, B: BLUE}
+, (1, -1, -1)   Type: CORNER    Colors: {R: RED, D: YELLOW, F: GREEN}
+, (1, -1, 0)    Type: EDGE      Colors: {R: RED, D: YELLOW}
+, (1, -1, 1)    Type: CORNER    Colors: {R: RED, D: YELLOW, B: BLUE}
+, (1, 0, -1)    Type: EDGE      Colors: {R: RED, F: GREEN}
+, (1, 0, 0)     Type: MIDDLE    Colors: {R: RED}
+, (1, 0, 1)     Type: EDGE      Colors: {R: RED, B: BLUE}
+, (1, 1, -1)    Type: CORNER    Colors: {R: RED, U: WHITE, F: GREEN}
+, (1, 1, 0)     Type: EDGE      Colors: {R: RED, U: WHITE}
+, (1, 1, 1)     Type: CORNER    Colors: {R: RED, U: WHITE, B: BLUE}
+]
+Currently solved
+Enter a command (or 'quit' to exit): random
+Cube has been randomly scrambled!
+Enter a command (or 'quit' to exit): print
+[(-1, -1, -1)   Type: CORNER    Colors: {L: YELLOW, F: GREEN, D: RED}
+, (-1, -1, 0)   Type: EDGE      Colors: {L: ORANGE, D: WHITE}
+, (-1, -1, 1)   Type: CORNER    Colors: {L: ORANGE, D: GREEN, B: YELLOW}
+, (-1, 0, -1)   Type: EDGE      Colors: {L: BLUE, F: ORANGE}
+, (-1, 0, 0)    Type: MIDDLE    Colors: {L: ORANGE}
+, (-1, 0, 1)    Type: EDGE      Colors: {L: WHITE, B: BLUE}
+, (-1, 1, -1)   Type: CORNER    Colors: {L: BLUE, U: WHITE, F: ORANGE}
+, (-1, 1, 0)    Type: EDGE      Colors: {L: YELLOW, U: BLUE}
+, (-1, 1, 1)    Type: CORNER    Colors: {L: GREEN, B: WHITE, U: RED}
+, (0, -1, -1)   Type: EDGE      Colors: {F: YELLOW, D: ORANGE}
+, (0, -1, 0)    Type: MIDDLE    Colors: {D: YELLOW}
+, (0, -1, 1)    Type: EDGE      Colors: {B: RED, D: YELLOW}
+, (0, 0, -1)    Type: MIDDLE    Colors: {F: GREEN}
+, (0, 0, 0)     Type: CENTER    Colors: {}
+, (0, 0, 1)     Type: MIDDLE    Colors: {B: BLUE}
+, (0, 1, -1)    Type: EDGE      Colors: {U: WHITE, F: GREEN}
+, (0, 1, 0)     Type: MIDDLE    Colors: {U: WHITE}
+, (0, 1, 1)     Type: EDGE      Colors: {U: BLUE, B: RED}
+, (1, -1, -1)   Type: CORNER    Colors: {R: BLUE, D: YELLOW, F: RED}
+, (1, -1, 0)    Type: EDGE      Colors: {R: RED, D: WHITE}
+, (1, -1, 1)    Type: CORNER    Colors: {R: YELLOW, B: BLUE, D: ORANGE}
+, (1, 0, -1)    Type: EDGE      Colors: {R: GREEN, F: RED}
+, (1, 0, 0)     Type: MIDDLE    Colors: {R: RED}
+, (1, 0, 1)     Type: EDGE      Colors: {R: YELLOW, B: GREEN}
+, (1, 1, -1)    Type: CORNER    Colors: {U: ORANGE, R: WHITE, F: GREEN}
+, (1, 1, 0)     Type: EDGE      Colors: {U: GREEN, R: ORANGE}
+, (1, 1, 1)     Type: CORNER    Colors: {U: WHITE, B: BLUE, R: RED}
+]
+Currently not solved
+Enter a command (or 'quit' to exit): b'
+Now rotating B face - rotation: CCW
+Enter a command (or 'quit' to exit): r2
+Now rotating R face - rotation: DOUBLE
+Enter a command (or 'quit' to exit): l2
+Now rotating L face - rotation: DOUBLE
+Enter a command (or 'quit' to exit): b
+Now rotating B face - rotation: CW
+Enter a command (or 'quit' to exit): d'
+Now rotating D face - rotation: CCW
+Enter a command (or 'quit' to exit): b'
+Now rotating B face - rotation: CCW
+Enter a command (or 'quit' to exit): d
+Now rotating D face - rotation: CW
+Enter a command (or 'quit' to exit): l'
+Now rotating L face - rotation: CCW
+Enter a command (or 'quit' to exit): d
+Now rotating D face - rotation: CW
+Enter a command (or 'quit' to exit): l
+Now rotating L face - rotation: CW
+Enter a command (or 'quit' to exit): print
+[(-1, -1, -1)   Type: CORNER    Colors: {L: RED, F: YELLOW, D: GREEN}
+, (-1, -1, 0)   Type: EDGE      Colors: {L: GREEN, D: YELLOW}
+, (-1, -1, 1)   Type: CORNER    Colors: {L: YELLOW, D: ORANGE, B: GREEN}
+, (-1, 0, -1)   Type: EDGE      Colors: {L: YELLOW, F: RED}
+, (-1, 0, 0)    Type: MIDDLE    Colors: {L: ORANGE}
+, (-1, 0, 1)    Type: EDGE      Colors: {L: ORANGE, B: BLUE}
+, (-1, 1, -1)   Type: CORNER    Colors: {L: ORANGE, U: YELLOW, F: BLUE}
+, (-1, 1, 0)    Type: EDGE      Colors: {L: ORANGE, U: WHITE}
+, (-1, 1, 1)    Type: CORNER    Colors: {L: ORANGE, B: BLUE, U: WHITE}
+, (0, -1, -1)   Type: EDGE      Colors: {D: YELLOW, F: BLUE}
+, (0, -1, 0)    Type: MIDDLE    Colors: {D: YELLOW}
+, (0, -1, 1)    Type: EDGE      Colors: {D: GREEN, B: ORANGE}
+, (0, 0, -1)    Type: MIDDLE    Colors: {F: GREEN}
+, (0, 0, 0)     Type: CENTER    Colors: {}
+, (0, 0, 1)     Type: MIDDLE    Colors: {B: BLUE}
+, (0, 1, -1)    Type: EDGE      Colors: {U: WHITE, F: GREEN}
+, (0, 1, 0)     Type: MIDDLE    Colors: {U: WHITE}
+, (0, 1, 1)     Type: EDGE      Colors: {B: BLUE, U: WHITE}
+, (1, -1, -1)   Type: CORNER    Colors: {D: WHITE, F: GREEN, R: ORANGE}
+, (1, -1, 0)    Type: EDGE      Colors: {D: ORANGE, R: YELLOW}
+, (1, -1, 1)    Type: CORNER    Colors: {D: GREEN, R: WHITE, B: RED}
+, (1, 0, -1)    Type: EDGE      Colors: {R: BLUE, F: RED}
+, (1, 0, 0)     Type: MIDDLE    Colors: {R: RED}
+, (1, 0, 1)     Type: EDGE      Colors: {B: RED, R: GREEN}
+, (1, 1, -1)    Type: CORNER    Colors: {R: WHITE, F: BLUE, U: RED}
+, (1, 1, 0)     Type: EDGE      Colors: {R: RED, U: WHITE}
+, (1, 1, 1)     Type: CORNER    Colors: {B: RED, R: BLUE, U: YELLOW}
+]
+Currently not solved
+Enter a command (or 'quit' to exit): f
+Now rotating F face - rotation: CW
+Enter a command (or 'quit' to exit): d
+Now rotating D face - rotation: CW
+Enter a command (or 'quit' to exit): f'
+Now rotating F face - rotation: CCW
+Enter a command (or 'quit' to exit): r
+Now rotating R face - rotation: CW
+Enter a command (or 'quit' to exit): d2
+Now rotating D face - rotation: DOUBLE
+Enter a command (or 'quit' to exit): r'
+Now rotating R face - rotation: CCW
+Enter a command (or 'quit' to exit): d'
+Now rotating D face - rotation: CCW
+Enter a command (or 'quit' to exit): r
+Now rotating R face - rotation: CW
+Enter a command (or 'quit' to exit): d
+Now rotating D face - rotation: CW
+Enter a command (or 'quit' to exit): r'
+Now rotating R face - rotation: CCW
+Enter a command (or 'quit' to exit): d
+Now rotating D face - rotation: CW
+Enter a command (or 'quit' to exit): f
+Now rotating F face - rotation: CW
+Enter a command (or 'quit' to exit): d2
+Now rotating D face - rotation: DOUBLE
+Enter a command (or 'quit' to exit): f'
+Now rotating F face - rotation: CCW
+Enter a command (or 'quit' to exit): d
+Now rotating D face - rotation: CW
+Enter a command (or 'quit' to exit): f
+Now rotating F face - rotation: CW
+Enter a command (or 'quit' to exit): d'
+Now rotating D face - rotation: CCW
+Enter a command (or 'quit' to exit): f'
+Now rotating F face - rotation: CCW
+Enter a command (or 'quit' to exit): print
+[(-1, -1, -1)   Type: CORNER    Colors: {F: GREEN, D: ORANGE, L: WHITE}
+, (-1, -1, 0)   Type: EDGE      Colors: {D: YELLOW, L: BLUE}
+, (-1, -1, 1)   Type: CORNER    Colors: {D: YELLOW, B: GREEN, L: RED}
+, (-1, 0, -1)   Type: EDGE      Colors: {F: RED, L: YELLOW}
+, (-1, 0, 0)    Type: MIDDLE    Colors: {L: ORANGE}
+, (-1, 0, 1)    Type: EDGE      Colors: {L: ORANGE, B: BLUE}
+, (-1, 1, -1)   Type: CORNER    Colors: {F: BLUE, L: ORANGE, U: YELLOW}
+, (-1, 1, 0)    Type: EDGE      Colors: {L: ORANGE, U: WHITE}
+, (-1, 1, 1)    Type: CORNER    Colors: {L: ORANGE, B: BLUE, U: WHITE}
+, (0, -1, -1)   Type: EDGE      Colors: {F: YELLOW, D: ORANGE}
+, (0, -1, 0)    Type: MIDDLE    Colors: {D: YELLOW}
+, (0, -1, 1)    Type: EDGE      Colors: {D: YELLOW, B: GREEN}
+, (0, 0, -1)    Type: MIDDLE    Colors: {F: GREEN}
+, (0, 0, 0)     Type: CENTER    Colors: {}
+, (0, 0, 1)     Type: MIDDLE    Colors: {B: BLUE}
+, (0, 1, -1)    Type: EDGE      Colors: {F: GREEN, U: WHITE}
+, (0, 1, 0)     Type: MIDDLE    Colors: {U: WHITE}
+, (0, 1, 1)     Type: EDGE      Colors: {B: BLUE, U: WHITE}
+, (1, -1, -1)   Type: CORNER    Colors: {F: GREEN, R: YELLOW, D: ORANGE}
+, (1, -1, 0)    Type: EDGE      Colors: {D: GREEN, R: ORANGE}
+, (1, -1, 1)    Type: CORNER    Colors: {D: YELLOW, R: RED, B: BLUE}
+, (1, 0, -1)    Type: EDGE      Colors: {F: GREEN, R: RED}
+, (1, 0, 0)     Type: MIDDLE    Colors: {R: RED}
+, (1, 0, 1)     Type: EDGE      Colors: {R: RED, B: BLUE}
+, (1, 1, -1)    Type: CORNER    Colors: {F: GREEN, U: WHITE, R: RED}
+, (1, 1, 0)     Type: EDGE      Colors: {R: RED, U: WHITE}
+, (1, 1, 1)     Type: CORNER    Colors: {R: RED, U: WHITE, B: BLUE}
+]
+Currently not solved
+Enter a command (or 'quit' to exit): d'
+Now rotating D face - rotation: CCW
+Enter a command (or 'quit' to exit): l
+Now rotating L face - rotation: CW
+Enter a command (or 'quit' to exit): d
+Now rotating D face - rotation: CW
+Enter a command (or 'quit' to exit): l'
+Now rotating L face - rotation: CCW
+Enter a command (or 'quit' to exit): d
+Now rotating D face - rotation: CW
+Enter a command (or 'quit' to exit): l
+Now rotating L face - rotation: CW
+Enter a command (or 'quit' to exit): d
+Now rotating D face - rotation: CW
+Enter a command (or 'quit' to exit): l'
+Now rotating L face - rotation: CCW
+Enter a command (or 'quit' to exit): b'
+Now rotating B face - rotation: CCW
+Enter a command (or 'quit' to exit): d'
+Now rotating D face - rotation: CCW
+Enter a command (or 'quit' to exit): b
+Now rotating B face - rotation: CW
+Enter a command (or 'quit' to exit): d'
+Now rotating D face - rotation: CCW
+Enter a command (or 'quit' to exit): b'
+Now rotating B face - rotation: CCW
+Enter a command (or 'quit' to exit): d
+Now rotating D face - rotation: CW
+Enter a command (or 'quit' to exit): b
+Now rotating B face - rotation: CW
+Enter a command (or 'quit' to exit): d
+Now rotating D face - rotation: CW
+Enter a command (or 'quit' to exit): b
+Now rotating B face - rotation: CW
+Enter a command (or 'quit' to exit): r'
+Now rotating R face - rotation: CCW
+Enter a command (or 'quit' to exit): b'
+Now rotating B face - rotation: CCW
+Enter a command (or 'quit' to exit): r
+Now rotating R face - rotation: CW
+Enter a command (or 'quit' to exit): print
+[(-1, -1, -1)   Type: CORNER    Colors: {D: YELLOW, L: ORANGE, F: GREEN}
+, (-1, -1, 0)   Type: EDGE      Colors: {D: YELLOW, L: BLUE}
+, (-1, -1, 1)   Type: CORNER    Colors: {B: RED, L: BLUE, D: YELLOW}
+, (-1, 0, -1)   Type: EDGE      Colors: {L: ORANGE, F: GREEN}
+, (-1, 0, 0)    Type: MIDDLE    Colors: {L: ORANGE}
+, (-1, 0, 1)    Type: EDGE      Colors: {B: BLUE, L: ORANGE}
+, (-1, 1, -1)   Type: CORNER    Colors: {L: ORANGE, U: WHITE, F: GREEN}
+, (-1, 1, 0)    Type: EDGE      Colors: {L: ORANGE, U: WHITE}
+, (-1, 1, 1)    Type: CORNER    Colors: {B: BLUE, U: WHITE, L: ORANGE}
+, (0, -1, -1)   Type: EDGE      Colors: {D: YELLOW, F: GREEN}
+, (0, -1, 0)    Type: MIDDLE    Colors: {D: YELLOW}
+, (0, -1, 1)    Type: EDGE      Colors: {B: ORANGE, D: YELLOW}
+, (0, 0, -1)    Type: MIDDLE    Colors: {F: GREEN}
+, (0, 0, 0)     Type: CENTER    Colors: {}
+, (0, 0, 1)     Type: MIDDLE    Colors: {B: BLUE}
+, (0, 1, -1)    Type: EDGE      Colors: {F: GREEN, U: WHITE}
+, (0, 1, 0)     Type: MIDDLE    Colors: {U: WHITE}
+, (0, 1, 1)     Type: EDGE      Colors: {B: BLUE, U: WHITE}
+, (1, -1, -1)   Type: CORNER    Colors: {R: RED, D: YELLOW, F: GREEN}
+, (1, -1, 0)    Type: EDGE      Colors: {R: RED, D: YELLOW}
+, (1, -1, 1)    Type: CORNER    Colors: {R: BLUE, B: ORANGE, D: YELLOW}
+, (1, 0, -1)    Type: EDGE      Colors: {R: RED, F: GREEN}
+, (1, 0, 0)     Type: MIDDLE    Colors: {R: RED}
+, (1, 0, 1)     Type: EDGE      Colors: {R: RED, B: BLUE}
+, (1, 1, -1)    Type: CORNER    Colors: {R: RED, F: GREEN, U: WHITE}
+, (1, 1, 0)     Type: EDGE      Colors: {R: RED, U: WHITE}
+, (1, 1, 1)     Type: CORNER    Colors: {R: RED, U: WHITE, B: BLUE}
+]
+Currently not solved
+Enter a command (or 'quit' to exit): b
+Now rotating B face - rotation: CW
+Enter a command (or 'quit' to exit): d
+Now rotating D face - rotation: CW
+Enter a command (or 'quit' to exit): b'
+Now rotating B face - rotation: CCW
+Enter a command (or 'quit' to exit): l'
+Now rotating L face - rotation: CCW
+Enter a command (or 'quit' to exit): b
+Now rotating B face - rotation: CW
+Enter a command (or 'quit' to exit): d
+Now rotating D face - rotation: CW
+Enter a command (or 'quit' to exit): b'
+Now rotating B face - rotation: CCW
+Enter a command (or 'quit' to exit): d'
+Now rotating D face - rotation: CCW
+Enter a command (or 'quit' to exit): b'
+Now rotating B face - rotation: CCW
+Enter a command (or 'quit' to exit): l
+Now rotating L face - rotation: CW
+Enter a command (or 'quit' to exit): b2
+Now rotating B face - rotation: DOUBLE
+Enter a command (or 'quit' to exit): d'
+Now rotating D face - rotation: CCW
+Enter a command (or 'quit' to exit): b'
+Now rotating B face - rotation: CCW
+Enter a command (or 'quit' to exit): d'
+Now rotating D face - rotation: CCW
+Enter a command (or 'quit' to exit): print
+[(-1, -1, -1)   Type: CORNER    Colors: {D: YELLOW, L: ORANGE, F: GREEN}
+, (-1, -1, 0)   Type: EDGE      Colors: {D: YELLOW, L: ORANGE}
+, (-1, -1, 1)   Type: CORNER    Colors: {D: YELLOW, B: BLUE, L: ORANGE}
+, (-1, 0, -1)   Type: EDGE      Colors: {L: ORANGE, F: GREEN}
+, (-1, 0, 0)    Type: MIDDLE    Colors: {L: ORANGE}
+, (-1, 0, 1)    Type: EDGE      Colors: {B: BLUE, L: ORANGE}
+, (-1, 1, -1)   Type: CORNER    Colors: {L: ORANGE, U: WHITE, F: GREEN}
+, (-1, 1, 0)    Type: EDGE      Colors: {L: ORANGE, U: WHITE}
+, (-1, 1, 1)    Type: CORNER    Colors: {B: BLUE, U: WHITE, L: ORANGE}
+, (0, -1, -1)   Type: EDGE      Colors: {D: YELLOW, F: GREEN}
+, (0, -1, 0)    Type: MIDDLE    Colors: {D: YELLOW}
+, (0, -1, 1)    Type: EDGE      Colors: {D: YELLOW, B: BLUE}
+, (0, 0, -1)    Type: MIDDLE    Colors: {F: GREEN}
+, (0, 0, 0)     Type: CENTER    Colors: {}
+, (0, 0, 1)     Type: MIDDLE    Colors: {B: BLUE}
+, (0, 1, -1)    Type: EDGE      Colors: {F: GREEN, U: WHITE}
+, (0, 1, 0)     Type: MIDDLE    Colors: {U: WHITE}
+, (0, 1, 1)     Type: EDGE      Colors: {B: BLUE, U: WHITE}
+, (1, -1, -1)   Type: CORNER    Colors: {D: YELLOW, F: GREEN, R: RED}
+, (1, -1, 0)    Type: EDGE      Colors: {D: YELLOW, R: RED}
+, (1, -1, 1)    Type: CORNER    Colors: {D: YELLOW, R: RED, B: BLUE}
+, (1, 0, -1)    Type: EDGE      Colors: {R: RED, F: GREEN}
+, (1, 0, 0)     Type: MIDDLE    Colors: {R: RED}
+, (1, 0, 1)     Type: EDGE      Colors: {B: BLUE, R: RED}
+, (1, 1, -1)    Type: CORNER    Colors: {R: RED, F: GREEN, U: WHITE}
+, (1, 1, 0)     Type: EDGE      Colors: {R: RED, U: WHITE}
+, (1, 1, 1)     Type: CORNER    Colors: {B: BLUE, R: RED, U: WHITE}
+]
+Currently solved
+Enter a command (or 'quit' to exit): quit
